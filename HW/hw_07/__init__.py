@@ -1,4 +1,4 @@
-from .task01 import rename_files
+from .hw07_task01 import rename_files
 
 import os
 import glob

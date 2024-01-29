@@ -4,14 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80af2983-481f-4734-a42f-0df98e925790" name="Changes" comment="add hw01-hw14, transfer from another directory for placement on Github">
-      <change afterPath="$PROJECT_DIR$/HW/hw_15/hw15_task01.py" afterDir="false" />
+    <list default="true" id="80af2983-481f-4734-a42f-0df98e925790" name="Changes" comment="add hw15 task01, rename all task">
       <change afterPath="$PROJECT_DIR$/HW/hw_15/hw15_task02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/immers_py_24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/hw_15/hw15_task02_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_01/task_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_01/hw01_task_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_01/task_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_01/hw01_task_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_01/task_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_01/hw01_task_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_02/task_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_02/hw02_task_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_02/task_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_02/hw02_task_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_03/task_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_03/hw03_task_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_03/task_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_03/hw03_task_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_03/task_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_03/hw03_task_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_03/task_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_03/hw03_task_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_03/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_03/hw03_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_04/task01.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_04/hw04_task01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_04/task02.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_04/hw04_task02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_04/task03.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_04/hw04_task03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_04/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_04/hw04_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_05/task01.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_05/hw05_task01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_05/task02.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_05/hw05_task02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_05/task03.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_05/hw05_task03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_05/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_05/hw05_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_06/task01.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_06/hw06_task01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_06/task02.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_06/hw06_task02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_06/task03.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_06/hw06_task03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_07/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_07/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_07/task01.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_07/hw07_task01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_07/task02.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_07/hw07_task02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_08/task_01/task01.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_08/hw07_task_01_02/task01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_08/task_01/task02.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_08/hw07_task_01_02/task02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_08/task_02/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_08/hw07_02/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_09/task01_02/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_09/hw09_task01_02/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_09/task01_02/input_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_09/hw09_task01_02/input_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_09/task01_02/results.json" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_09/hw09_task01_02/results.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_09/task01_02/task_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_09/hw09_task01_02/task_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_09/task01_02/task_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_09/hw09_task01_02/task_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw_09/task01_02/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw_09/hw09_task01_02/test.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +89,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Doctest Rectangle.__sub__.executor": "Run",
+    "Python.hw06_task01.executor": "Run",
     "Python.hw15_task01.executor": "Run",
+    "Python.hw15_task02.executor": "Run",
+    "Python.hw15_task02_01.executor": "Run",
+    "Python.task01.executor": "Run",
     "Python.task_1.executor": "Run",
     "Python.test1.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -80,7 +114,7 @@
       <recent name="$PROJECT_DIR$/.venv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw15_task01">
+  <component name="RunManager" selected="Python.hw15_task02_01">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="immers_py_24" />
       <option name="ENV_FILES" value="" />
@@ -139,7 +173,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw15_task01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw06_task01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="immers_py_24" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW/hw_06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW/hw_06/hw06_task01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw15_task02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="immers_py_24" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,8 +210,31 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW/hw_15/hw15_task01.py" />
-      <option name="PARAMETERS" value="$PROJECT_DIR$/HW/hw_14" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW/hw_15/hw15_task02.py" />
+      <option name="PARAMETERS" value="32.11.2047" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw15_task02_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="immers_py_24" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW/hw_15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW/hw_15/hw15_task02_01.py" />
+      <option name="PARAMETERS" value="10.0 0" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -178,29 +258,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminare/seminar_15/task_1.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="immers_py_24" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW/test1.py" />
-      <option name="PARAMETERS" value="$PROJECT_DIR$/HW/hw_14" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -271,6 +328,26 @@
       <option name="docutils_open_in_browser" value="false" />
       <method v="2" />
     </configuration>
+    <configuration name="Doctest Rectangle.__sub__" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="immers_py_24" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW/hw_14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW/hw_14/hw14_task01.py" />
+      <option name="CLASS_NAME" value="Rectangle" />
+      <option name="METHOD_NAME" value="__sub__" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Autodetect">
       <module name="immers_py_24" />
       <option name="ENV_FILES" value="" />
@@ -308,14 +385,18 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.hw15_task01" />
+      <item itemvalue="Python.hw15_task02_01" />
+      <item itemvalue="Python.hw06_task01" />
+      <item itemvalue="Python.hw15_task02" />
       <item itemvalue="Python.task_1" />
-      <item itemvalue="Python.test1" />
+      <item itemvalue="Python tests.Doctest Rectangle.__sub__" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hw15_task01" />
-        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.hw15_task02_01" />
+        <item itemvalue="Python.hw15_task02" />
+        <item itemvalue="Python.hw06_task01" />
+        <item itemvalue="Python tests.Doctest Rectangle.__sub__" />
         <item itemvalue="Python.task_1" />
       </list>
     </recent_temporary>
@@ -336,7 +417,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706475094547</updated>
       <workItem from="1706475099052" duration="1134000" />
-      <workItem from="1706547087692" duration="4822000" />
+      <workItem from="1706547087692" duration="12111000" />
     </task>
     <task id="LOCAL-00001" summary="add project">
       <option name="closed" value="true" />
@@ -370,7 +451,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706476071837</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add hw15 task01, rename all task">
+      <option name="closed" value="true" />
+      <created>1706554680172</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706554680172</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,11 +492,16 @@
     <MESSAGE value="add project" />
     <MESSAGE value="add temp file" />
     <MESSAGE value="add hw01-hw14, transfer from another directory for placement on Github" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw01-hw14, transfer from another directory for placement on Github" />
+    <MESSAGE value="add hw15 task01, rename all task" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw15 task01, rename all task" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/immers_py_24$hw15_task02.coverage" NAME="hw15_task02 Coverage Results" MODIFIED="1706560735454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW/hw_15" />
+    <SUITE FILE_PATH="coverage/immers_py_24$Doctest_Rectangle___sub__.coverage" NAME="Doctest Rectangle.__sub__ Coverage Results" MODIFIED="1706554438058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW/hw_14" />
     <SUITE FILE_PATH="coverage/immers_py_24$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1706553729491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
-    <SUITE FILE_PATH="coverage/immers_py_24$task_1.coverage" NAME="task_1 Coverage Results" MODIFIED="1706549947590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seminare/seminar_15" />
+    <SUITE FILE_PATH="coverage/immers_py_24$task_1.coverage" NAME="task_1 Coverage Results" MODIFIED="1706554388613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seminare/seminar_15" />
+    <SUITE FILE_PATH="coverage/immers_py_24$task01.coverage" NAME="hw06_task01 Coverage Results" MODIFIED="1706556454521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW/hw_06" />
     <SUITE FILE_PATH="coverage/immers_py_24$hw15_task01.coverage" NAME="hw15_task01 Coverage Results" MODIFIED="1706553898454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW/hw_15" />
+    <SUITE FILE_PATH="coverage/immers_py_24$hw15_task02_01.coverage" NAME="hw15_task02_01 Coverage Results" MODIFIED="1706561571348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW/hw_15" />
   </component>
 </project>
